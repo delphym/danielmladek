@@ -9,3 +9,4 @@ Now, as a full-stack developer, I can bring value both behind the scenes and at 
 
 ## My Projects
 Please, check my [Portfolio](https://delphym.github.io) powered by [GitHub pages](https://pages.github.com/).
+If it is doesn't work, have a look here: <img src="PortfolioFull.gif"/>
